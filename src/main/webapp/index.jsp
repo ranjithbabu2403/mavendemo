@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>WAR project deployed on EC2</h2>
+<h2>WAR project deployed on github(test)</h2>
 </body>
 </html>
