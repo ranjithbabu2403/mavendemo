@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>WAR project deployed through Tomcat</h2>
+<h2>WAR project deployed through New</h2>
 </body>
 </html>
