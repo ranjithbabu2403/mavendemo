@@ -31,7 +31,7 @@ pipeline {
             steps {
                 sh '''
                 docker rm -f mavendemo-container || true
-                docker run -d -p 8080:8080 --name mavendemo-container mavendemo-image
+                docker run -d -p 9090:8080 --name mavendemo-container mavendemo-image
                 '''
             }
         }
