@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hi ALL</h2>
+<h2>Docker to jenkins maven project</h2>
 </body>
 </html>
